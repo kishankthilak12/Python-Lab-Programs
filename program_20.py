@@ -1,5 +1,5 @@
 list=[]
-n=int(input("Enter the number of word in the list : "))
+n=int(input("Entert the number of word in the list : "))
 for i in range(0,n):
     a=input("Enter the words : ")
     list.append(a)
